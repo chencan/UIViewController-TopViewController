@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name         = 'UIViewController(TopViewController)'
+  spec.name         = 'UIViewController+TopViewController'
   spec.version      = '1.0.0'
   spec.license      = { :type => 'MIT' }
   spec.homepage     = 'https://github.com/vitormf/UIViewController-TopViewController'
